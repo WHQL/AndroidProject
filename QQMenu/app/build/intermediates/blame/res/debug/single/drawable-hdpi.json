@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\barry\\QQMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_main.png",
+        "source": "G:\\barry\\QQMenu\\app\\src\\main\\res\\drawable-hdpi\\bg_main.png"
+    },
+    {
+        "merged": "G:\\barry\\QQMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_gray.png",
+        "source": "G:\\barry\\QQMenu\\app\\src\\main\\res\\drawable-hdpi\\btn_gray.png"
+    },
+    {
+        "merged": "G:\\barry\\QQMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_white.png",
+        "source": "G:\\barry\\QQMenu\\app\\src\\main\\res\\drawable-hdpi\\btn_white.png"
+    },
+    {
+        "merged": "G:\\barry\\QQMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left_bg.png",
+        "source": "G:\\barry\\QQMenu\\app\\src\\main\\res\\drawable-hdpi\\left_bg.png"
+    },
+    {
+        "merged": "G:\\barry\\QQMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left_title.png",
+        "source": "G:\\barry\\QQMenu\\app\\src\\main\\res\\drawable-hdpi\\left_title.png"
+    }
+]
